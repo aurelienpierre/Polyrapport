@@ -1,0 +1,6 @@
+* Version 1.0.1 -- 1er décembre 2013 *
+	- optimisation du code fourni (indentation, lisibilité)
+	- corrections de la documentation
+
+* Version 1.0 -- 29 novembre 2013 *
+	Version initiale.

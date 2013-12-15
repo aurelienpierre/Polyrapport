@@ -1,0 +1,45 @@
+\input{header}
+
+\begin{document}
+
+	\input{titre}
+
+	\frontmatter % Pages d'introduction hors numérotation principale
+
+	\input{abstract}
+
+	\sommaires % Table des matières, des figures et listes des tableaux
+
+	\include{introduction}
+
+	\mainmatter % Contenu principal 
+
+	\chapter{Titre du chapitre}
+
+		\input{chapitre-1}
+	
+	\chapter{Titre du chapitre}
+
+		\input{chapitre-2}	
+	
+	\chapter{Titre du chapitre}
+
+		\input{chapitre-3}	
+
+	\chapter{Titre du chapitre}
+
+		\input{chapitre-4}	
+
+	\chapter{Titre du chapitre}
+
+		\input{chapitre-5}	
+
+	\input{conclusion}
+
+	\references % Optionnel : pour afficher un récapitulatif de toutes les références des chapitres
+
+	\backmatter % Annexes
+
+	\input{annexe}
+
+\end{document}
