@@ -86,10 +86,10 @@
 \RequirePackage[T1]{fontenc}
 \renewcommand{\sfdefault}{uop}
 \RequirePackage[urw-garamond]{mathdesign}
-\RequirePackage[swashQ]{garamondx}
+\RequirePackage[libertine]{newtxmath}
+\RequirePackage{libertine}
 \RequirePackage{lettrine , fourier-orns , psvectorian}
 \RequirePackage[scaled=.8]{beramono}
-
 \RequirePackage{sectsty}
 \allsectionsfont{\sffamily \selectfont}
 
