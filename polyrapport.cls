@@ -85,7 +85,6 @@
 %% Police 
 \RequirePackage[T1]{fontenc}
 \renewcommand{\sfdefault}{uop}
-\RequirePackage[urw-garamond]{mathdesign}
 \RequirePackage[libertine]{newtxmath}
 \RequirePackage{libertine}
 \RequirePackage{lettrine , fourier-orns , psvectorian}
